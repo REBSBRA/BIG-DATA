@@ -2,7 +2,7 @@
     
 -  👩‍🎓  Biomédica
 - 📫 rebsbra@gmail.com
-- ⚡ Estudando HTML  JavaScript 
+- ⚡ Estudando HTML  CSS  JavaScript 
 - 🎯  Dev em processo
 
  <a href="https://github.com/REBSBRA">
