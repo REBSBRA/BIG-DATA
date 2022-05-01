@@ -3,7 +3,7 @@
 -  👩‍🎓  Biomédica
 - 📫 rebsbra@gmail.com
 - ⚡ Estudando HTML  CSS  JavaScript 
-- 🎯  Dev em processo
+- 🎯  Dev em processo 
 
  <a href="https://github.com/REBSBRA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=REBSBRA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
